@@ -1,0 +1,14 @@
+.deleteContact {
+  border: 1px solid grey;
+  padding: 10px 20px;
+  margin: 10px 10px 0px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.input {
+  display: flex;
+  padding: 3px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  border: 1px solid black;
+}

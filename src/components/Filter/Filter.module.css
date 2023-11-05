@@ -1,0 +1,14 @@
+.title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 10px;
+  font-weight: lighter;
+  margin-left: 10px;
+}
+.input {
+  display: flex;
+  padding: 3px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  margin-left: 10px;
+  border: 1px solid black;
+}
