@@ -42,7 +42,7 @@ export const ContactForm = ({
 
 ContactForm.propTypes = {
   name: PropTypes.string.isRequired,
-  number: PropTypes.number.isRequired,
+  number: PropTypes.string.isRequired,
   onChangeName: PropTypes.func.isRequired,
   onChangeNumber: PropTypes.func.isRequired,
   onSubmit: PropTypes.func.isRequired,
